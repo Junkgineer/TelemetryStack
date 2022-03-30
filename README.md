@@ -1,5 +1,5 @@
 # TelemetryStack
-Offers a way to track data flow, errors, and changes through an application during development.
+Offers a basic way to track data flow, errors, and changes through an application during development.
 
 ## Basic Introduction
 TelemetryStack is a (currently) .Net Standard 2.0 C# library for detailed control of data and logic flow throughout your application during development. It's primarily aimed at more complicated program flow, particularly for deep object oriented style practices where it can be difficult to isolate logic errors and bring them to the surface.
