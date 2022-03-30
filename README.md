@@ -12,7 +12,7 @@ public int AddNumbers(int num1, int num2) {
     returnObject = num1 + num2;
   } catch (Exception ex)
   {
-  
+    Console.Writeline(ex.Message)
   }
   return returnObject;
 }
